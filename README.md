@@ -2,7 +2,7 @@
 
 https://banana.dev/ API in javascript
 
-Converted from python version
+Converted from [banana-python-sdk](https://github.com/bananaml/banana-python-sdk)
 
 Example:
 
